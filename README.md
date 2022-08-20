@@ -1,3 +1,5 @@
-# Modify this portfolio
+# Branden Ge - Curious Coder Dad
 
-Make it your own! 
+## Software Engineering Portfolio
+
+[Link to deployed site on Netlify](https://curious-coder-dad.netlify.app/)
