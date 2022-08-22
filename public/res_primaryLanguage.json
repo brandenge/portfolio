@@ -90,37 +90,37 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Student Software Engineer",
+        "years": "August 2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "React"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Git",
+          "GitHub",
+          "Command line",
+          "HTML5",
+          "CSS3"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Self-Learner",
+        "title": "Student Software Engineer",
+        "years": "May 2021 - August 2022",
         "mainTech": [
-          "Angular 7/8"
+          "JavaScript"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Git",
+          "GitHub",
+          "Command line",
+          "Ruby",
+          "Python",
+          "HTML5",
+          "CSS3"
         ]
       }
     ]
