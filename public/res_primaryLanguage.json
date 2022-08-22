@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Branden Ge. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hi, my name is Branden.",
+      "description": "I am a software engineer with a passion for building robust software, creating amazing user experiences, and having a high impact in the areas of entrepreneurship, automation, education, writing, and games. I acquired these passions with a diverse background as a Marine Corps veteran and work experience in a variety of roles at the intersection of business and technology. This has given me a well-rounded foundation in understanding people, teams, and business. But through my diverse experiences I learned that I can have the greatest impact in all of these areas as a software engineer. Ever since I have fallen in love with engineering, I have dedicated my life to writing clean code and pursuing a life-long journey of continuously learning and improving as a programmer. I am a curious and ambitious learner in a wide range of fields, including web development, networking, cloud computing, DevOps, databases, and game development. I am hungry for constructive feedback, and am a leader in creating positive team dynamics that promote grit and a growth mindset in myself and others. In the future, I will dedicate my passions towards building my own companies. But until then, I look forward to dedicating those passions towards continuing to build an already great company with a great team today.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
