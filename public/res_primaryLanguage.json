@@ -11,38 +11,38 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "To-Do List",
+        "startDate": "2022",
+        "description": "A to-do list application that saves a collection of lists and a collection of tasks for each list. All data is saved in a single nested data structure which is an array of obects that represent to-do lists, which further contain an array of tasks within each to-do list object. This object is saved on the user's computer locally using the Storage API in the browser (using localStorage methods). This serves as a simple database so that the data persists across sessions and page refreshes without the use of a separate traditional database.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/to-do-list/p1.png",
+          "images/portfolio/to-do-list/p2.png"
         ],
-        "url": "",
+        "url": "github.com/brandenge/to-do-list",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Portfolio Website",
+        "startDate": "2022",
+        "description": "I built this portfolio website with React.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/portfolio-website/p1.png",
+          "images/portfolio/portfolio-website/p2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/brandenge/portfolio",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -51,30 +51,39 @@
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Color Changer",
+        "startDate": "2021",
+        "description": "A simple website demonstrating asynchronous JavaScript by cycling colors with the text and background.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/color-changer/p1.png",
+          "images/portfolio/color-changer/p2.png",
+          "images/portfolio/color-changer/p3.png"
         ],
-        "url": "https://github.com",
+        "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           }
         ]
       }
